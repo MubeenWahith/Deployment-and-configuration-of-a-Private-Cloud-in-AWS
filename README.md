@@ -59,47 +59,70 @@ Snap Shot:
  
 
 Snapshot 1: Create VPC
+
+ 
+ <img width="606" height="642" alt="image" src="https://github.com/user-attachments/assets/58911068-b67f-4ba4-b419-2f8ed4e0701a" />
+
+
+<img width="1917" height="961" alt="Screenshot 2026-10-29 152444" src="https://github.com/user-attachments/assets/fd6f75f4-509b-47c7-a872-6902cb9dbfae" />
+
  
 Snapshot 2: Configuring Subnets
  
+<img width="1917" height="965" alt="Screenshot 2026-10-29 153121" src="https://github.com/user-attachments/assets/c7b86694-779a-4f6c-bf11-b8131e645a0f" />
+
 
 Snapshot 3: Configure Subnets
  
+<img width="1917" height="965" alt="Screenshot 2026-10-29 153121" src="https://github.com/user-attachments/assets/12440fc4-95f1-4f39-b356-fe2e1ba5ad26" />
+
 
 Snapshot 4: Setting Internet gateway
+
 
  
 Snapshot 5: Setting Internet gateway
 
 
+<img width="1917" height="962" alt="Screenshot 2026-10-29 153327" src="https://github.com/user-attachments/assets/92ad3217-4473-4c0b-a45e-d10096b55ce2" />
 
  
 
 Snapshot 6: Setting Internet gateway
 
+<img width="1917" height="962" alt="Screenshot 2026-10-29 153327" src="https://github.com/user-attachments/assets/03af3e5c-f942-4cd1-af28-ad5eb50ad462" />
+
  
 Snapshot 7: Creating route table
 
- 
+ <img width="1917" height="958" alt="Screenshot 2026-10-29 154055" src="https://github.com/user-attachments/assets/9241d37e-c080-48d8-bc21-c9f1c369844f" />
+
 
 Snapshot 8: Configuring route table
 
 
- 
+ <img width="1917" height="957" alt="Screenshot 2026-10-29 162111" src="https://github.com/user-attachments/assets/4b8644ff-6bc5-4443-b5ed-63b3108404d4" />
+
 Snapshot 9: Editing routes
+<img width="1917" height="950" alt="Screenshot 2026-10-30 141222" src="https://github.com/user-attachments/assets/1aa705d6-6df6-439f-86ba-8e57acb2dc9c" />
 
  
 Snapshot 10: Creating route table
 
+<img width="1917" height="957" alt="Screenshot 2026-10-30 141329" src="https://github.com/user-attachments/assets/50628f79-07cd-4c9c-a458-d5181b78d29e" />
 
 
 
 
 
 
+## Result:
+<img width="1917" height="1013" alt="Screenshot 2026-10-30 141659" src="https://github.com/user-attachments/assets/9d79034f-1a9f-46c6-8e90-7a7dbad47466" />
 
 
 
+## GRADE:
+<img width="606" height="642" alt="image" src="https://github.com/user-attachments/assets/ccc3024d-8a41-4fa2-a5c9-e7c33a3fbba7" />
 
 
 
