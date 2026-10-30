@@ -60,9 +60,6 @@ Snap Shot:
 
 Snapshot 1: Create VPC
 
- 
- <img width="606" height="642" alt="image" src="https://github.com/user-attachments/assets/58911068-b67f-4ba4-b419-2f8ed4e0701a" />
-
 
 <img width="1917" height="961" alt="Screenshot 2026-10-29 152444" src="https://github.com/user-attachments/assets/fd6f75f4-509b-47c7-a872-6902cb9dbfae" />
 
