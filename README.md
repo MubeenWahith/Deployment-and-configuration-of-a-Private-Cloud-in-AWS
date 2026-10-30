@@ -59,34 +59,42 @@ Snap Shot:
  
 
 Snapshot 1: Create VPC
- 
+
+ <img width="1917" height="962" alt="Screenshot 2026-10-29 152403" src="https://github.com/user-attachments/assets/4ba2ea57-dc6c-4604-b8f3-4643ec24f0c3" />
+
+<img width="1917" height="961" alt="Screenshot 2026-10-29 152444" src="https://github.com/user-attachments/assets/7baef7c4-397a-418f-a9de-f814447481e9" />
+
+
 Snapshot 2: Configuring Subnets
  
+<img width="1917" height="962" alt="Screenshot 2026-10-29 153327" src="https://github.com/user-attachments/assets/8848c56d-1e29-4dcf-be56-e5594487090c" />
+
 
 Snapshot 3: Configure Subnets
  
+<img width="1917" height="962" alt="Screenshot 2026-10-29 153327" src="https://github.com/user-attachments/assets/e97be227-b811-4b92-9c90-d337a8b03474" />
 
 Snapshot 4: Setting Internet gateway
+<img width="1917" height="951" alt="Screenshot 2026-10-29 153823" src="https://github.com/user-attachments/assets/95ee93ab-7b41-410e-9d4a-a97a2a4632cf" />
 
  
 Snapshot 5: Setting Internet gateway
 
+<img width="1917" height="958" alt="Screenshot 2026-10-29 154055" src="https://github.com/user-attachments/assets/dd148e76-5ff7-4e5b-9ca4-36871c251888" />
 
 
  
 
 Snapshot 6: Setting Internet gateway
 
+<img width="1917" height="950" alt="Screenshot 2026-10-30 141222" src="https://github.com/user-attachments/assets/ddbf7ee0-8247-49fb-8f6e-16dff575d723" />
+
  
 Snapshot 7: Creating route table
 
  
+<img width="1917" height="957" alt="Screenshot 2026-10-30 141329" src="https://github.com/user-attachments/assets/1fec97c0-d251-49f6-a0a0-5c1f541168e6" />
 
-Snapshot 8: Configuring route table
-
-
- 
-Snapshot 9: Editing routes
 
  
 Snapshot 10: Creating route table
@@ -96,6 +104,7 @@ Snapshot 10: Creating route table
 
 
 
+<img width="1917" height="1013" alt="Screenshot 2026-10-30 141659" src="https://github.com/user-attachments/assets/64d96d7c-61ac-4269-9e2f-8a339dc38cbe" />
 
 
 
@@ -104,6 +113,8 @@ Snapshot 10: Creating route table
 
 
 
+# Grade:
+<img width="606" height="642" alt="image" src="https://github.com/user-attachments/assets/f88864e1-d27e-4cee-bddf-9bf04834e207" />
 
 
 
